@@ -40,11 +40,10 @@
 
 
 <!-- 仓库重点项目介绍 -->
-### 仓库项目
+### 仓库
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gip886&repo=vue-homework)](https://github.com/Gip886/vue-homework)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gip886&repo=2021ssm-inventory)](https://github.com/Gip886/2021ssm-inventory)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gip886&repo=wx-App-campus)](https://github.com/Gip886/wx-App-campus)
-
 
 
 
