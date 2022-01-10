@@ -24,6 +24,8 @@ https://gip886.github.io/ (不用了)
   ![Spring Boot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SpringBoot)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=007ACC&labelColor=ffffff)
+  ![Microsoft SQL Server](https://img.shields.io/badge/MicrosoftSQLServer-333333?style=flat&logo=MicrosoftSQLServer)
+  ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-333333?style=flat&logo=Elasticsearch)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
