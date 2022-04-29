@@ -19,9 +19,11 @@ https://gip886.github.io/ (不用了)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=Vue.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
 - ⚡️ &nbsp;
   ![spring](https://img.shields.io/badge/-spring-333333?style=flat&logo=spring)
   ![Spring Boot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SpringBoot)
+  ![Node](https://img.shields.io/badge/-node.js-333333?style=flat&logo=node.js)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=007ACC&labelColor=ffffff)
   ![Microsoft SQL Server](https://img.shields.io/badge/MicrosoftSQLServer-333333?style=flat&logo=MicrosoftSQLServer)
