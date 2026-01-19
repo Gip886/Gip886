@@ -1,7 +1,9 @@
-### Hi there 👋
 
-<!-- Your title -->
-一位学习编程的菜鸟🚀from China
+### 🧐 About Me
+
+- 🌱 我目前正在深入学习: **React 生态, 前端工程化, 交互动画**
+- 💼 求职意向: **前端开发工程师**
+- 💬 擅长技术: **React, JavaScript, CSS3**
 
 https://gip886.github.io/ (不用了)
 
@@ -9,6 +11,10 @@ https://gip886.github.io/ (不用了)
 
 
 <h3> 🛠 &nbsp;技术栈</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,vite,git,npm,vscode&perline=8" />
+</div>
 
 [![zread](https://img.shields.io/badge/Ask_Zread-_.svg?style=flat&color=00b0aa&labelColor=000000&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTQuOTYxNTYgMS42MDAxSDIuMjQxNTZDMS44ODgxIDEuNjAwMSAxLjYwMTU2IDEuODg2NjQgMS42MDE1NiAyLjI0MDFWNC45NjAxQzEuNjAxNTYgNS4zMTM1NiAxLjg4ODEgNS42MDAxIDIuMjQxNTYgNS42MDAxSDQuOTYxNTZDNS4zMTUwMiA1LjYwMDEgNS42MDE1NiA1LjMxMzU2IDUuNjAxNTYgNC45NjAxVjIuMjQwMUM1LjYwMTU2IDEuODg2NjQgNS4zMTUwMiAxLjYwMDEgNC45NjE1NiAxLjYwMDFaIiBmaWxsPSIjZmZmIi8%2BCjxwYXRoIGQ9Ik00Ljk2MTU2IDEwLjM5OTlIMi4yNDE1NkMxLjg4ODEgMTAuMzk5OSAxLjYwMTU2IDEwLjY4NjQgMS42MDE1NiAxMS4wMzk5VjEzLjc1OTlDMS42MDE1NiAxNC4xMTM0IDEuODg4MSAxNC4zOTk5IDIuMjQxNTYgMTQuMzk5OUg0Ljk2MTU2QzUuMzE1MDIgMTQuMzk5OSA1LjYwMTU2IDE0LjExMzQgNS42MDE1NiAxMy43NTk5VjExLjAzOTlDNS42MDE1NiAxMC42ODY0IDUuMzE1MDIgMTAuMzk5OSA0Ljk2MTU2IDEwLjM5OTlaIiBmaWxsPSIjZmZmIi8%2BCjxwYXRoIGQ9Ik0xMy43NTg0IDEuNjAwMUgxMS4wMzg0QzEwLjY4NSAxLjYwMDEgMTAuMzk4NCAxLjg4NjY0IDEwLjM5ODQgMi4yNDAxVjQuOTYwMUMxMC4zOTg0IDUuMzEzNTYgMTAuNjg1IDUuNjAwMSAxMS4wMzg0IDUuNjAwMUgxMy43NTg0QzE0LjExMTkgNS42MDAxIDE0LjM5ODQgNS4zMTM1NiAxNC4zOTg0IDQuOTYwMVYyLjI0MDFDMTQuMzk4NCAxLjg4NjY0IDE0LjExMTkgMS42MDAxIDEzLjc1ODQgMS42MDAxWiIgZmlsbD0iI2ZmZiIvPgo8cGF0aCBkPSJNNCAxMkwxMiA0TDQgMTJaIiBmaWxsPSIjZmZmIi8%2BCjxwYXRoIGQ9Ik00IDEyTDEyIDQiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8L3N2Zz4K&logoColor=ffffff)](https://zread.ai/BloopAI/vibe-kanban)
 
@@ -54,22 +60,22 @@ https://gip886.github.io/ (不用了)
 
 <!-- 仓库重点项目介绍 -->
 ### 仓库
+
+#### 🔮 [Mystic Tarot - 沉浸式 AI 手势塔罗牌](https://github.com/Gip886/tarot-game)
+
+一个基于 **React** 和 **MediaPipe** 的创新型 Web 应用，融合了计算机视觉与沉浸式交互。
+
+- **核心亮点**:
+  - 🎮 **AI 手势识别**: 集成 MediaPipe Hands 实现隔空洗牌、抽牌。
+  - 🎨 **极致交互**: 使用 Framer Motion 打造丝滑的卡牌动画。
+  - 🔊 **原生音效**: 利用 Web Audio API 实时合成音效，无需外部素材。
+- **技术栈**: React 18, Vite, MediaPipe, CSS Modules.
+
+---
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gip886&repo=2021ssm-inventory)](https://github.com/Gip886/2021ssm-inventory)
 
 
 
-
-
-<!-- **Gip886/Gip886** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
 
