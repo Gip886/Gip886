@@ -49,10 +49,6 @@ https://gip886.github.io/ (不用了)
   ![Word](https://img.shields.io/badge/-Word-333333?style=flat&logo=microsoft-word&logoColor=2B579A&labelColor=ffffff)
 <br/>
 
-<a href="https://github.com/Gip886">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gip886&theme=vue&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gip886&theme=vue&layout=compact" />
-</a>
 
 <br/>
 
