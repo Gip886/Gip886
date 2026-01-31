@@ -86,7 +86,7 @@ https://gip886.github.io/ (不用了)
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gip886&repo=2021ssm-inventory)](https://github.com/Gip886/2021ssm-inventory)
+- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gip886&repo=2021ssm-inventory)](https://github.com/Gip886/2021ssm-inventory)
 
 
 
